@@ -29,7 +29,5 @@ npx playwright show-report
 
 
 
-##Run all tests:
-
 
 
